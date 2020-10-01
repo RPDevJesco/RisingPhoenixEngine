@@ -1,2 +1,0 @@
-﻿# Modern CMake utilized.
-Simple implementation of modern cmake with SFML.
